@@ -1,0 +1,12 @@
+{
+  "name": "gha-playwright-scrap",
+  "version": "1.0.0",
+  "private": true,
+  "description": "GitHub Action Playwright scraper for summing table numbers",
+  "scripts": {
+    "sum": "node scripts/sumTables.js"
+  },
+  "dependencies": {
+    "playwright": "^1.52.0"
+  }
+}
