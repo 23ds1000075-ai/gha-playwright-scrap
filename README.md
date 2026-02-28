@@ -1,0 +1,1 @@
+# gha-playwright-scrap
